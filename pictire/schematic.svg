@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="schematic.svg"
+   inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.9480706"
+     inkscape:cx="-110.75125"
+     inkscape:cy="579.59819"
+     inkscape:window-width="3440"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6465"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-grids="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="661.55495"
+       y="163.04359"
+       width="164.20193"
+       height="135.13606"
+       id="rect197787" />
+    <rect
+       x="559.75723"
+       y="258.57206"
+       width="534.03853"
+       height="313.53949"
+       id="rect116206" />
+    <rect
+       x="661.55493"
+       y="163.04359"
+       width="164.20193"
+       height="135.13606"
+       id="rect197787-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.529167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.66378,129.99619 h -2.77812"
+       id="path2757"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.529167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.27472,131.38525 v -2.77813"
+       id="path2759"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path2771"
+       d="m 135.66378,137.40452 h -2.77812"
+       style="fill:none;stroke:#000000;stroke-width:0.529167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5820"
+       d="m 129.64451,129.99619 h 1.85209"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5822"
+       d="m 129.64451,137.40452 h 1.85209"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5824"
+       d="m 131.4966,126.29202 v 14.81667 l 14.81666,-7.40834 z"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5826"
+       d="m 146.31326,133.70035 h 1.85209"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="use11369"
+       transform="translate(57.210135,64.59996)">
+      <title
+         id="title10000">Voltage_source</title>
+      <title
+         id="title10008">Voltage_source</title>
+      <g
+         id="g6465"
+         transform="matrix(0.20969842,0,0,0.20969842,-77.68879,4.8695746)">
+        <circle
+           r="28"
+           cy="292.9314"
+           cx="415.67911"
+           id="circle1868"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 415.67916,320.93137 v 14"
+           id="path1870"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 415.67916,264.93137 v -14"
+           id="path1872"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:17.6642px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="319.28583"
+           y="241.43713"
+           id="text1882"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan1880"
+             x="319.28583"
+             y="241.43713"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8231px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Neuronal</tspan><tspan
+             sodipodi:role="line"
+             x="319.28583"
+             y="261.65836"
+             id="tspan22341"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8231px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">voltage</tspan></text>
+        <path
+           sodipodi:nodetypes="cscsc"
+           inkscape:connector-curvature="0"
+           id="path1901"
+           d="m 401.67916,292.93139 c 0,-3.86599 3.13401,-7 7,-7 3.86599,0 7,3.13401 7,6.99999 0,3.86599 3.13401,7 7,7 3.86599,0 7,-3.13401 7,-7"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g3684"
+           transform="matrix(1.0772941,0,0,1.0772941,-1095.2246,-627.51218)"
+           style="stroke-width:3.09862;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path3618"
+             d="m 1526,780.41665 v 21 h -21 m 0,28 h 21 v 21"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.09862;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.09862;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 1498,827.66665 v -24.5"
+             id="path3620"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path3624"
+             d="m 1491,815.41665 h -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.09862;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             r="3.5"
+             cy="815.41663"
+             cx="1494.5"
+             id="path3636"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.09862;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path3670"
+             d="m 1503.25,797.91665 v 35"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.09862;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g2769"
+           transform="matrix(0.90317948,0,0,0.87355538,597.78792,100.84458)"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <circle
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle1800"
+             cx="56"
+             cy="297.41666"
+             r="28" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1820"
+             d="m 56,325.41665 v 14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1822"
+             d="m 56,269.41665 v -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             id="path1836"
+             d="M 61.25,279.91665 H 50.75"
+             style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             id="path1838"
+             d="m 56,285.16665 v -10.5"
+             style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 61.25,314.91665 H 50.75"
+             id="path1852"
+             sodipodi:nodetypes="cc" />
+          <text
+             id="text1856"
+             y="310.79718"
+             x="90.546227"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:19.8867px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="310.79718"
+               x="90.546227"
+               id="tspan1854"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.9397px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Vdd/2</tspan></text>
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 648.36597,323.96516 h 67.53434"
+           id="path1034"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 548.72623,288.63666 h 193.3924"
+           id="path1034-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 415.67916,250.93137 h 83.52576"
+           id="path1034-3-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g1200"
+           transform="matrix(1.2617326,0,0,1.2617326,283.19724,-243.46786)"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           style="stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1189"
+             d="m 105,458.41665 v 14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1191"
+             d="m 105,472.41665 -7,14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1195"
+             d="m 112,486.41665 7,-14 H 91 l -7,14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g1187"
+           transform="matrix(0.86052617,0,0,0.86052617,362.03371,20.086912)"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1181"
+             d="m 217,500.41665 v -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1183"
+             d="m 196,500.41665 h 42 l -21,21 z"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g1187-5"
+           transform="matrix(0.91934319,0,0,0.91897936,448.8685,-9.1640379)"
+           style="stroke-width:3.63171;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1181-6"
+             d="m 217,500.41665 v -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.63171;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1183-2"
+             d="m 196,500.41665 h 42 l -21,21 z"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.63171;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 648.36597,397.47857 v 40.36425"
+           id="path1034-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.3381272;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:13.35250881,6.6762544;stroke-dashoffset:0;stroke-opacity:0.375198"
+           id="rect10040"
+           width="135.64273"
+           height="357.93805"
+           x="471.2948"
+           y="162.42668"
+           ry="38.092896"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.78639;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"
+           id="rect10042"
+           width="139.97148"
+           height="62.037556"
+           x="827.13586"
+           y="272.59027"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.29569;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 969.02067,305.16102 h 37.62063"
+           id="path1034-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g3697"
+           transform="matrix(1.1479867,0,0,1.1479867,-688.80348,-541.92536)"
+           style="stroke-width:2.88289;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.88289;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 1526,675.41665 v 21 h -21 m 0,28 h 21 v 21"
+             id="path3608"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3610"
+             d="m 1498,722.66665 v -24.5"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.88289;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.88289;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 1498,710.41665 h -21"
+             id="path3614"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path3666"
+             d="m 1503.25,692.91665 v 35"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.88289;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g3684-4"
+           transform="matrix(-1.1601811,0,0,1.1327301,2900.3818,-649.63636)"
+           style="stroke-width:2.87725;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path3618-5"
+             d="m 1526,780.41665 v 21 h -21 m 0,28 h 21 v 21"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 1498,827.66665 v -24.5"
+             id="path3620-1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path3624-0"
+             d="m 1491,815.41665 h -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             r="3.5"
+             cy="815.41663"
+             cx="1494.5"
+             id="path3636-3"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path3670-7"
+             d="m 1503.25,797.91665 v 35"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <circle
+           r="5.5200801"
+           cy="305.1824"
+           cx="1006.2933"
+           id="circle1050"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.41606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g1143"
+           transform="matrix(0,-1.2617326,1.2617326,0,369.80732,504.77779)"
+           style="stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             id="path1139"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 112,549.41665 7,-10e-6 c 0,-3.866 3.13401,-7.00001 7,-7.00001 3.86599,0 7,3.13401 7,7.00001 l 7,10e-6"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccscc" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 126,535.41665 v 21"
+             id="path1141"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.37997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1006.6092,274.13304 v 71.62433"
+           id="path1034-0-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1045.3599,345.79948 h -38.7507"
+           id="path1034-0-8-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1111.6483,345.79948 h -39.792"
+           id="path1034-0-8-4-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g1143-6"
+           transform="matrix(0,-1.2617326,1.314319,0,407.94009,504.77779)"
+           style="stroke-width:2.5922;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             id="path1139-7"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5922;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 112,549.41665 7,-10e-6 c 0,-3.866 3.13401,-7.00001 7,-7.00001 3.86599,0 7,3.13401 7,7.00001 l 7,10e-6"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccscc" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5922;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 126,535.41665 v 21"
+             id="path1141-6"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 1130.0137,328.58181 V 314.24962"
+           id="path1034-0-8-4-0-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 1063.0241,328.13523 V 313.80304"
+           id="path1034-0-8-4-0-9-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1129.3936,233.44397 h -66.3695"
+           id="path1034-0-8-4-0-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           r="5.5200801"
+           cy="233.1366"
+           cx="1097.8176"
+           id="circle1050-7"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.41606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           transform="matrix(2.5234652,0,0,-2.5234652,938.0474,475.43693)"
+           id="g1212"
+           style="stroke-width:1.32283;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             sodipodi:nodetypes="cc"
+             style="fill:none;stroke:#000000;stroke-width:1.32283;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 56.291255,133.93509 14,2e-5"
+             id="path1208"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             style="fill:none;stroke:#000000;stroke-width:1.32283;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 63.291255,133.93509 v -7"
+             id="path1210"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g1579"
+           transform="matrix(1.2617326,0,0,1.2617326,689.37758,-726.69929)"
+           style="stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             sodipodi:nodetypes="cc"
+             id="path2791"
+             d="m 322,899.41665 v 14"
+             style="fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             id="path2793"
+             d="m 322,920.41665 v 14"
+             style="fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2795"
+             d="m 335.99999,913.41665 h -28"
+             style="fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2797"
+             d="m 335.99999,920.41665 h -28"
+             style="fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1128.6101,363.46374 h -65.586"
+           id="path1034-0-8-4-0-93"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g1187-5-8"
+           transform="matrix(0.91934319,0,0,0.91897936,896.158,5.2778021)"
+           style="stroke-width:3.63171;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1181-6-7"
+             d="m 217,500.41665 v -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.63171;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1183-2-4"
+             d="m 196,500.41665 h 42 l -21,21 z"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.63171;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1095.6554,363.43492 v 22.34455"
+           id="path1034-0-8-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           r="5.5200801"
+           cy="363.53885"
+           cx="1095.4465"
+           id="circle1050-9"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.41606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.50781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:14.0313, 7.01562;stroke-dashoffset:0;stroke-opacity:0.375198"
+           id="rect10040-0"
+           width="146.26555"
+           height="91.14106"
+           x="1048.618"
+           y="403.68665"
+           ry="9.6995201"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1201.135,345.79948 h -61.886"
+           id="path1034-0-8-4-0-98"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g3697-5"
+           transform="matrix(1.1479867,0,0,1.1479867,-745.00972,-389.58986)"
+           style="stroke-width:2.88289;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.88289;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 1526,675.41665 v 21 h -21 m 0,28 h 21 v 21"
+             id="path3608-8"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3610-4"
+             d="m 1498,722.66665 v -24.5"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.88289;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.88289;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 1498,710.41665 h -21"
+             id="path3614-3"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path3666-7"
+             d="m 1503.25,692.91665 v 35"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.88289;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g1187-5-8-8"
+           transform="matrix(0.91934319,0,0,0.91897936,807.32051,19.131676)"
+           style="stroke-width:3.63171;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1181-6-7-0"
+             d="m 217,500.41665 v -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.63171;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1183-2-4-9"
+             d="m 196,500.41665 h 42 l -21,21 z"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.63171;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <circle
+           r="5.5200801"
+           cy="345.48038"
+           cx="1006.8632"
+           id="circle1050-79"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.41606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g1421"
+           transform="matrix(0,-1.2617326,1.2617326,0,407.49592,885.22967)"
+           style="stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 364,430.41665 v -15.75"
+             id="path1385"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <circle
+             transform="rotate(90)"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle1387"
+             cx="409.41666"
+             cy="-364.00003"
+             r="5.25" />
+          <text
+             id="text1401"
+             y="-377.98395"
+             x="401.58228"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:14px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             xml:space="preserve"
+             transform="rotate(90)"><tspan
+               y="-377.98395"
+               x="401.58228"
+               id="tspan1399"
+               sodipodi:role="line">Cap reset</tspan></text>
+        </g>
+        <circle
+           r="5.5200801"
+           cy="385.8656"
+           cx="1095.7594"
+           id="circle1050-9-1"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.41606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 1209.5245,385.77946 H 1097.8546"
+           id="path1034-0-8-4-0-98-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           id="text5191-0-4-74-6-6"
+           y="452.87253"
+           x="1115.3536"
+           style="font-style:normal;font-weight:normal;font-size:50.4691px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26173"
+           xml:space="preserve"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             style="font-size:20.1877px;stroke-width:1.26173"
+             y="452.87253"
+             x="1115.3536"
+             id="tspan5189-6-9-52-8-5"
+             sodipodi:role="line"><tspan
+               id="tspan13671"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:1.26173">C</tspan><tspan
+               id="tspan5788-0-5-9-6"
+               style="font-size:13.122px;baseline-shift:sub;stroke-width:1.26173">1</tspan></tspan></text>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1095.6554,385.77947 v 22.34455"
+           id="path1034-0-8-1-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g3684-4-2"
+           transform="matrix(0,1.1601811,1.1327301,0,325.52315,-1384.6569)"
+           style="stroke-width:2.87725;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path3618-5-9"
+             d="m 1526,780.41665 v 21 h -21 m 0,28 h 21 v 21"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 1498,827.66665 v -24.5"
+             id="path3620-1-7"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path3624-0-5"
+             d="m 1491,815.41665 h -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             r="3.5"
+             cy="815.41663"
+             cx="1494.5"
+             id="path3636-3-6"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path3670-7-4"
+             d="m 1503.25,797.91665 v 35"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.87725;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g1421-6"
+           transform="matrix(1.2617326,0,0,1.2617326,922.98604,-205.06602)"
+           style="stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 258.52078,423.22486 v -15.75"
+             id="path1385-3"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <circle
+             transform="rotate(90)"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle1387-7"
+             cx="402.22485"
+             cy="-258.52081"
+             r="5.25" />
+          <text
+             id="text1401-9"
+             y="392.13446"
+             x="268.10022"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:14px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="392.13446"
+               x="268.10022"
+               id="tspan1399-7"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ADC read</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(1.2617326,0,0,1.2617326,97.65765,-331.28306)"
+           id="text116204"
+           style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect116206)" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.68789;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:14.7516, 7.37579;stroke-dashoffset:0;stroke-opacity:0.375198"
+           id="rect10040-08"
+           width="1102.1033"
+           height="437.24243"
+           x="271.85333"
+           y="100.87423"
+           ry="46.532715"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1308.8749,385.77946 h -20.0593"
+           id="path1034-0-8-4-0-98-0-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g1421-5"
+           transform="matrix(0,-1.2617326,1.2617326,0,1008.3031,885.50862)"
+           style="stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 396.06582,238.22147 v 15.75"
+             id="path1385-4"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <circle
+             transform="matrix(0,-1,-1,0,0,0)"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle1387-1"
+             cx="-259.22147"
+             cy="-396.06586"
+             r="5.25" />
+          <text
+             id="text1401-5"
+             y="-377.13516"
+             x="260.26038"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:14px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             xml:space="preserve"
+             transform="rotate(90)"><tspan
+               y="-377.13516"
+               x="260.26038"
+               id="tspan1399-5"
+               sodipodi:role="line">ADC</tspan><tspan
+               y="-363.13516"
+               x="260.26038"
+               sodipodi:role="line"
+               id="tspan130711" /></text>
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.3381272;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 803.77034,306.30089 h 20.71968"
+           id="path1034-98"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.3381272;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:13.35250881,6.6762544;stroke-dashoffset:0;stroke-opacity:0.375198"
+           id="rect10040-3"
+           width="196.19484"
+           height="357.56628"
+           x="614.3642"
+           y="163.0118"
+           ry="38.053333"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:28px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="491.00766"
+           y="190.92339"
+           id="text1882-8"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan1880-5"
+             x="491.00766"
+             y="190.92339">Ib</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7075px;line-height:26.9929px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.964031px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="659.4635"
+           y="184.3475"
+           id="text1882-8-2"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(0.96403095,1.0373111)"><tspan
+             sodipodi:role="line"
+             id="tspan1880-5-2"
+             x="659.4635"
+             y="184.3475"
+             style="stroke-width:0.964031px">II</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:28px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="830.74243"
+           y="256.45734"
+           id="text1882-8-2-2"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan1880-5-2-7"
+             x="830.74243"
+             y="256.45734">III</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:28px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1150.356"
+           y="432.77209"
+           id="text1882-8-2-2-0"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan1880-5-2-7-3"
+             x="1150.356"
+             y="432.77209">IV</tspan></text>
+        <g
+           id="g3204"
+           transform="matrix(0,-1.2797415,1.2617326,0,1258.649,954.95643)"
+           style="stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             d="m 525,-45.58335 7.0866,-3.4e-4"
+             id="path3170"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             d="m 476,-45.58335 h 14"
+             id="path3174"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3182"
+             d="m 490,-59.58335 v 28 l 28,-14 z"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.64567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle3190"
+             cx="521.5"
+             cy="-45.583351"
+             r="3.5" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1201.2101,274.01062 h -14.4158"
+           id="path1034-0-8-4-0-98-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:28px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="311.9888"
+           y="190.78366"
+           id="text1882-8-6"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan1880-5-3"
+             x="311.9888"
+             y="190.78366">Ia</tspan></text>
+        <g
+           transform="matrix(2.5234652,0,0,-2.5234652,389.01292,533.54235)"
+           id="g1212-6"
+           style="stroke-width:1.32283;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             sodipodi:nodetypes="cc"
+             style="fill:none;stroke:#000000;stroke-width:1.32283;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 56.291255,133.93509 14,2e-5"
+             id="path1208-3"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             style="fill:none;stroke:#000000;stroke-width:1.32283;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 63.291255,133.93509 v -7"
+             id="path1210-3"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           id="text1401-0-4"
+           y="187.13028"
+           x="541.48352"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8231px;line-height:17.6643px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26173px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             y="187.13028"
+             x="541.48352"
+             id="tspan1399-8-4"
+             sodipodi:role="line"
+             style="stroke-width:1.26173px">V</tspan></text>
+        <text
+           id="text1405-3"
+           y="191.54634"
+           x="545.8996"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8231px;line-height:17.6643px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26173px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             y="191.54634"
+             x="545.8996"
+             id="tspan1403-9"
+             sodipodi:role="line"
+             style="stroke-width:1.26173px">CC</tspan></text>
+        <g
+           id="g1951"
+           transform="matrix(0.74715692,0,0,0.78846274,867.63635,-57.304332)"
+           style="stroke-width:4.34917;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <circle
+             r="28"
+             cy="311.41666"
+             cx="308"
+             id="circle1914"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.34917;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.34917;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 308,339.41664 v 14"
+             id="path1916"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.34917;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 308,283.41664 v -14"
+             id="path1918"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:23.0143px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.34917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="343"
+             y="304.41666"
+             id="text1928"><tspan
+               sodipodi:role="line"
+               id="tspan1926"
+               x="343"
+               y="304.41666"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.9184px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Ib</tspan></text>
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path1940"
+             d="m 308,290.41665 v 33.25"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.34917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1942"
+             d="m 308,332.41665 -5.25,-10.5 h 10.5 z"
+             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.34917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             transform="matrix(1.6887117,0,0,1.6002438,-1065.6356,-347.48469)"
+             id="text197785"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197787);fill:#000000;fill-opacity:1;stroke:none" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1097.7606,221.35152 v 11.68464"
+           id="path1034-0-8-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g1951-5"
+           transform="matrix(0.74715692,0,0,0.78846274,318.6019,122.30841)"
+           style="stroke-width:4.34917;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <circle
+             r="28"
+             cy="311.41666"
+             cx="308"
+             id="circle1914-8"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.34917;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.34917;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 308,339.41664 v 14"
+             id="path1916-9"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.34917;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 308,283.41664 v -14"
+             id="path1918-0"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:23.0143px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.34917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="343"
+             y="304.41666"
+             id="text1928-2"><tspan
+               sodipodi:role="line"
+               id="tspan1926-4"
+               x="343"
+               y="304.41666"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.9184px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Ib</tspan></text>
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path1940-7"
+             d="m 308,290.41665 v 33.25"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.34917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1942-6"
+             d="m 308,332.41665 -5.25,-10.5 h 10.5 z"
+             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.34917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             transform="matrix(1.6887117,0,0,1.6002438,-1065.6356,-347.48469)"
+             id="text197785-5"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197787-2);fill:#000000;fill-opacity:1;stroke:none" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.3381272;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 548.72623,400.96426 v 37.00667"
+           id="path1034-9-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           r="5.5200801"
+           cy="289.01498"
+           cx="548.69519"
+           id="circle1050-7-1"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.41606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.3381272;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 548.72623,288.63666 v 46.09673"
+           id="path1034-9-7-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.54392;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:14.1757, 7.08785;stroke-dashoffset:0;stroke-opacity:0.375198"
+           id="rect10040-36"
+           width="170.66379"
+           height="358.55591"
+           x="292.68051"
+           y="162.45207"
+           ry="38.158649"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:4.18506;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:16.7403, 8.37012;stroke-dashoffset:0;stroke-opacity:0.375198"
+           id="rect10040-0-7"
+           width="156.52512"
+           height="121.22818"
+           x="819.58948"
+           y="226.45979"
+           ry="12.901485"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.983;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 1095.9916,385.77947 h -89.1737"
+           id="path1034-0-8-4-0-98-0-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <g
+           id="g2769-9"
+           transform="matrix(0.90317948,0,0,0.87355538,297.56677,138.27022)"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <circle
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle1800-1"
+             cx="56"
+             cy="297.41666"
+             r="28" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1820-2"
+             d="m 56,325.41665 v 14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1822-7"
+             d="m 56,269.41665 v -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             id="path1836-0"
+             d="M 61.25,279.91665 H 50.75"
+             style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             id="path1838-9"
+             d="m 56,285.16665 v -10.5"
+             style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 61.25,314.91665 H 50.75"
+             id="path1852-3"
+             sodipodi:nodetypes="cc" />
+          <text
+             id="text1856-6"
+             y="337.84656"
+             x="85.90258"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:28px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="337.84656"
+               x="85.90258"
+               id="tspan1854-0"
+               sodipodi:role="line">Vtr</tspan></text>
+        </g>
+        <g
+           id="g1187-6"
+           transform="matrix(0.86052617,0,0,0.86052617,161.41064,16.195206)"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1181-2"
+             d="m 217,500.41665 v -14"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1183-6"
+             d="m 196,500.41665 h 42 l -21,21 z"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.33813;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 348.14482,334.93137 h 67.53434"
+           id="path1034-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.73074;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 348.14482,334.37924 v 27.01157"
+           id="path1034-9-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="144.8981"
+         y="41.205353"
+         id="text43633"><tspan
+           sodipodi:role="line"
+           id="tspan43631"
+           style="stroke-width:0.264583"
+           x="144.8981"
+           y="41.205353" /></text>
+      <text
+         id="text5191-94-3-37"
+         y="67.725922"
+         x="97.690315"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan66740"
+           x="97.690315"
+           y="67.725922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Constant time</tspan><tspan
+           sodipodi:role="line"
+           id="tspan66742"
+           x="97.690315"
+           y="72.135643"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">multivibrator</tspan></text>
+      <text
+         id="text1401-0"
+         y="31.808086"
+         x="150.97551"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:3.70417px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           y="31.808086"
+           x="150.97551"
+           id="tspan1399-8"
+           sodipodi:role="line"
+           style="stroke-width:0.264583px">V</tspan></text>
+      <text
+         id="text1405"
+         y="32.734127"
+         x="151.90155"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:3.70417px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:export-filename="/home/miksolo/git/Neuralink_Compression_Challenge/pictire/schematic.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           y="32.734127"
+           x="151.90155"
+           id="tspan1403"
+           sodipodi:role="line"
+           style="stroke-width:0.264583px">CC</tspan></text>
+    </g>
+  </g>
+</svg>
